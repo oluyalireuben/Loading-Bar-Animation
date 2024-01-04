@@ -6,7 +6,7 @@ This repository contains a simple HTML and CSS project for creating a loading ba
 
 
 ## Project Description
-
+This project is a basic example of a loading bar animation. It consists of an HTML file (`index.html`) and a CSS file (`style.css`) that define a loading bar and a text element displaying "Loading...". The loading bar changes colors and moves from left to right in a continuous loop to give the illusion of loading.
 
 
 
