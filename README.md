@@ -19,8 +19,9 @@ CSS
 To use this loading bar animation, follow these steps:
 
 1. Download or clone this repository to your local machine.
+https://github.com/oluyalireuben/Loading-Bar-Animation
 
-2. Open the `index.html` file in a web browser to view the loading bar animation. You can do this by double-clicking the `index.html` file or by using a local development server.
+3. Open the `index.html` file in a web browser to view the loading bar animation. You can do this by double-clicking the `index.html` file or by using a local development server.
 
-3. The loading animation will run in a continuous loop, changing colors and giving the appearance of a loading process.
+4. The loading animation will run in a continuous loop, changing colors and giving the appearance of a loading process.
 
