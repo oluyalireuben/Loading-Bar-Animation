@@ -10,7 +10,7 @@ This project is a basic example of a loading bar animation. It consists of an HT
 
 
 ### Tech stack
-HTML
+HTML <br>
 CSS
 
 
