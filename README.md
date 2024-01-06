@@ -7,7 +7,8 @@ HTML <br>
 CSS
 
 ## Project Description
-This project is a basic example of a loading bar animation. It consists of an HTML file (`index.html`) and a CSS file (`style.css`) that define a loading bar and a text element displaying "Loading...". The loading bar changes colors and moves from left to right in a continuous loop to give the illusion of loading.
+This project is a basic example of a loading bar animation. <br>
+It consists of an HTML file (`index.html`) and a CSS file (`style.css`) that define a loading bar and a text element displaying "Loading...". The loading bar changes colors and moves from left to right in a continuous loop to give the illusion of loading.
 
 
 #### live link - https://loading-bar-animation.vercel.app
