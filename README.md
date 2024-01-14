@@ -1,6 +1,7 @@
 # Loading Bar Animation 
 
-This repository contains a simple HTML and CSS project for creating a loading bar animation. The animation represents a loading progress bar with changing colors.
+This repository contains a simple HTML and CSS project for creating a loading bar animation. <br>
+The animation represents a loading progress bar with changing colors.
 
 ### Tech stack
 HTML <br>
@@ -21,12 +22,14 @@ To use this loading bar animation, follow these steps:
    ```bash
    git clone https://github.com/oluyalireuben/Loading-Bar-Animation.git
 
-3. Open the `index.html` file in a web browser to view the loading bar animation. You can do this by double-clicking the `index.html` file or by using a local development server.
+3. Open the `index.html` file in a web browser to view the loading bar animation. <br>
+4. You can do this by double-clicking the `index.html` file or by using a local development server.
 
 5. The loading animation will run in a continuous loop, changing colors and giving the appearance of a loading process.
 
 ## Customization
-Feel free to customize the loading bar animation to suit your needs. You can modify the colors, duration, or add additional elements to enhance the visual experience.
+Feel free to customize the loading bar animation to suit your needs. <br>
+You can modify the colors, duration, or add additional elements to enhance the visual experience.
 
 ## Project Structure
 The project structure is straightforward:<br>
