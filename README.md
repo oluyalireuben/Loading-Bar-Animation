@@ -3,16 +3,15 @@
 This repository contains a simple HTML and CSS project for creating a loading bar animation. <br>
 The animation represents a loading progress bar with changing colors.
 
-### Tech stack
-HTML <br>
-CSS
 
 ## Project Description
 This project is a basic example of a loading bar animation. <br>
 It consists of an HTML file (`index.html`) and a CSS file (`style.css`) that define a loading bar and a text element displaying "Loading...". <br>The loading bar changes colors and moves from left to right in a continuous loop to give the illusion of loading.
 
+### Tech stack
+HTML <br>
+CSS
 
-#### Demo - https://loading-bar-animation.vercel.app
 
 ## Usage
 
@@ -26,6 +25,8 @@ To use this loading bar animation, follow these steps:
 4. You can do this by double-clicking the `index.html` file or by using a local development server.
 
 5. The loading animation will run in a continuous loop, changing colors and giving the appearance of a loading process.
+
+#### Demo - https://loading-bar-animation.vercel.app
 
 ## Customization
 Feel free to customize the loading bar animation to suit your needs. <br>
