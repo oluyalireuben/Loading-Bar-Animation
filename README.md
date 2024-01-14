@@ -22,6 +22,7 @@ To use this loading bar animation, follow these steps:
    git clone https://github.com/oluyalireuben/Loading-Bar-Animation.git
 
 3. Open the `index.html` file in a web browser to view the loading bar animation. You can do this by double-clicking the `index.html` file or by using a local development server.
+cd Loading-Bar-Animation
 
-4. The loading animation will run in a continuous loop, changing colors and giving the appearance of a loading process.
+5. The loading animation will run in a continuous loop, changing colors and giving the appearance of a loading process.
 
