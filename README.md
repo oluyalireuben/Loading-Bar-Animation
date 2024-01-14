@@ -28,3 +28,7 @@ To use this loading bar animation, follow these steps:
 ## Customization
 Feel free to customize the loading bar animation to suit your needs. You can modify the colors, duration, or add additional elements to enhance the visual experience.
 
+## Project Structure
+The project structure is straightforward:<br>
+`index.html`:Contains the HTML structure of the loading bar animation.
+`style.css`: Defines the styling and animation properties.
