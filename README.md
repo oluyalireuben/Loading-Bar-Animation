@@ -32,3 +32,13 @@ Feel free to customize the loading bar animation to suit your needs. You can mod
 The project structure is straightforward:<br>
 `index.html`:Contains the HTML structure of the loading bar animation.
 `style.css`: Defines the styling and animation properties.
+
+## Contributing
+
+We welcome contributions! If you have suggestions, find issues, or want to add new features, feel free to:
+
+1. Open an issue to discuss proposed changes.
+2. Fork the repository.
+3. Create a pull request with your changes.
+
+
