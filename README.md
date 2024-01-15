@@ -7,7 +7,8 @@ The animation represents a loading progress bar with changing colors.
 ## Project Description
 This project is a basic example of a loading bar animation. <br>
 It consists of an HTML file (`index.html`) and a <br>
-CSS file (`style.css`) that define a loading bar and a text element displaying "Loading...". <br>The loading bar changes colors and moves from left to right in a continuous loop to give the illusion of loading.
+CSS file (`style.css`) that define a loading bar and a text element displaying "Loading...". <br>
+The loading bar changes colors and moves from left to right in a continuous loop to give the illusion of loading.
 
 ### Tech stack
 HTML <br>
@@ -34,7 +35,6 @@ Feel free to customize the loading bar animation to suit your needs. <br>
 You can modify the colors, duration, or add additional elements to enhance the visual experience.
 
 ## Project Structure
-The project structure is straightforward:<br>
 `index.html`:Contains the HTML structure of the loading bar animation.
 `style.css`: Defines the styling and animation properties.
 
