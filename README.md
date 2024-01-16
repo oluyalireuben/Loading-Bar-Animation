@@ -14,7 +14,6 @@ The loading bar changes colors and moves from left to right in a continuous loop
 HTML <br>
 CSS
 
-
 ## Usage
 
 To use this loading bar animation, follow these steps:
